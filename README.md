@@ -9,7 +9,7 @@
 - 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidades: Apaixonado em Front-End, conceitos de design e interação com plataformas agradáveis.
 
-### Meu perfil como deselvolvedor
+### GITHUB
 
 <div>
   <a href="https://github.com/KevinAlves55">
@@ -26,5 +26,19 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="right" alt="Kevin-Hisoka" height="120" width="120" src="https://pbs.twimg.com/profile_images/1271762538296942592/5hyJ8GTC.jpg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg">
+  <img align="right" alt="Kevin-Hisoka" height="120" width="120" src="https://c.tenor.com/IUoeL5tbyLIAAAAd/hisoka-hunter-x-hunter.gif">
+</div>
+  
+##
+  
+### Meios de contatos
+
+<div style="display: inline_block;">
+  
+  <a href="https://api.whatsapp.com/send?phone=5511945182565" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/kevin-alves-1b3558212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "programador.kevin4773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    
 </div>
