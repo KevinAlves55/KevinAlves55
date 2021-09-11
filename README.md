@@ -42,6 +42,7 @@
   <a href="https://www.linkedin.com/in/kevin-alves4773" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:programador.kevin4773@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/kevinalves4773" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  [google](https://www.ti-enxame.com/pt/github/abertura-do-link-de-markdown-em-nova-aba/1056015759/){:target="_blank"}
     
 </div>
   
