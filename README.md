@@ -37,7 +37,7 @@
 <div style="display: inline_block;">
   
   <a href="https://api.whatsapp.com/send?phone=5511945182565" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=kevin-alves4773"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=www.linkedin.com/in/kevin-alves4773"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:programador.kevin4773@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.facebook.com/sharer/sharer.php?u=kevinalves4773"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     
