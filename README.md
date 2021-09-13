@@ -1,8 +1,8 @@
 ### Olá, prazer, meu nome é Kevin 👋
 
 - 🔭 Atualmente estou procurando opurtunidades no mercado de trabalho.
-- 🌱 Estudando Kotlin, JavaScript, Front-End e PHP.
-- 👯 Focado em deselvolver meu portfólio de evolução.
+- 🌱 Estudando Kotlin, JavaScript, Front-End, PHP e Banco de Dados.
+- 👯 Focado em deselvolver meu portfólio de evolução e meu conhecimento na área de programação.
 - 🤔 Procuro ajuda com Back-End e Frameworks.
 - 💬 Em busca de me aperfeiçoar em UX e UI.
 - 😄 Pronome: Ele/Dele.
