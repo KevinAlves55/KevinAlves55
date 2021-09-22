@@ -7,7 +7,7 @@
 - 💬 Em busca de me aperfeiçoar em UX e UI.
 - 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidades: Apaixonado em Front-End, conceitos de design e interação com plataformas agradáveis.
-- 🏫 Estudo no SENAI Jandira
+- 🏫 Estudo na SENAI Jandira
 
 ##
 
