@@ -33,7 +33,7 @@
                                                                                                                                        
 ##
                                                                                                                                       
-## Ferramentas
+### Ferramentas
                                                                                                                                       
 <div style="display: inline_block"><br>
   <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"">                                
@@ -46,7 +46,7 @@
 
 ##
                                                                                                                                       
-## Desejo Aprender
+### Desejo Aprender
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -57,7 +57,7 @@
                                                                                                                                                  
 ##
                                                                                                                                                  
-## Meios De Contatos
+### Meios De Contatos
 
 <div style="display: inline_block;">
   
