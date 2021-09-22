@@ -7,7 +7,7 @@
 - 💬 Em busca de me aperfeiçoar em UX e UI.
 - 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidades: Apaixonado em Front-End, conceitos de design e interação com plataformas agradáveis.
-- 🏫 Instituição de ensino: SENAI jandira
+- 🏫 Estudo no SENAI Jandira
 
 ##
 
@@ -38,7 +38,7 @@
   
 ##
                                                                                                                                       
-### DESEJO APRENDER
+### Desejo Aprender
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -49,7 +49,7 @@
                                                                                                                                                  
 ##
                                                                                                                                                  
-### CONTATOS
+### Meios De Contatos
 
 <div style="display: inline_block;">
   
