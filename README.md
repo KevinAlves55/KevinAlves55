@@ -1,4 +1,4 @@
-### Olá prazer, meu nome é Kevin 👋
+### Olá, prazer, meu nome é Kevin 👋
 
 - 🔭 Atualmente estou procurando opurtunidades no mercado de trabalho.
 - 🌱 Estudando Kotlin, JavaScript, Front-End, PHP e Banco de Dados.
@@ -33,7 +33,7 @@
                                                                                                                                        
 ##
                                                                                                                                       
-### FERRAMENTAS
+### Ferramentas
                                                                                                                                       
 <div style="display: inline_block"><br>
   <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"">
@@ -45,7 +45,7 @@
 
 ##
                                                                                                                                       
-### DESEJO APRENDER
+### Dejeso aprender
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
@@ -56,7 +56,7 @@
                                                                                                                                                  
 ##
                                                                                                                                                  
-### CONTATOS
+### Contatos
 
 <div style="display: inline_block;">
   
