@@ -5,9 +5,9 @@
 - 👯 Focado em deselvolver meu portfólio de evolução e meu conhecimento na área de programação.
 - 🤔 Procuro ajuda com Back-End e Frameworks.
 - 💬 Em busca de me aperfeiçoar em UX e UI.
-- 😄 Pronome: Ele/Dele.
-- ⚡ Curiosidades: Apaixonado em Front-End, conceitos de design e interação com plataformas agradáveis.
-- 🏫 Estudo na SENAI Jandira
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Curiosidades: Apaixonado por Front-End, conceitos de design e interação com plataformas agradáveis.
+- 🏫 Atualmente estudo na instituição da SENAI Jandira
 
 ##
 
