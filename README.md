@@ -28,7 +28,7 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Kevin-Hisoka" height="120" width="120" src="https://c.tenor.com/IUoeL5tbyLIAAAAd/hisoka-hunter-x-hunter.gif">
+  <img align="right" alt="Kevin-Hisoka" border-radius="20px" height="120" width="120" src="https://c.tenor.com/IUoeL5tbyLIAAAAd/hisoka-hunter-x-hunter.gif">
 </div>
                                                                                                                                        
 ##
