@@ -1,9 +1,9 @@
 ### Olá, prazer, meu nome é Kevin 👋
 
 - 🔭 Atualmente estou procurando opurtunidades no mercado de trabalho.
-- 🌱 Estudando Kotlin, JavaScript, Front-End, PHP e Banco de Dados.
+- 🌱 Estudando Spring Boot, Go, Python, React e WordPress.
 - 👯 Focado em deselvolver meu portfólio de evolução e meu conhecimento na área de programação.
-- 🤔 Procuro ajuda com Back-End e Frameworks.
+- 🤔 Procuro ajuda com Spring Boot.
 - 💬 Em busca de me aperfeiçoar em UX e UI.
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Curiosidades: Apaixonado por Front-End, conceitos de design e interação com plataformas agradáveis.
