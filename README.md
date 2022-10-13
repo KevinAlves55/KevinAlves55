@@ -1,4 +1,4 @@
-### Olá, prazer, meu nome é Kevin 👋
+### Olá meu nome é Kevin 👋
 
 - 🔭 Atualmente estou procurando opurtunidades no mercado de trabalho.
 - 🌱 Estudando Spring Boot, Go, Python, React e WordPress.
