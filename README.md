@@ -1,7 +1,5 @@
 ### Olá, meu nome é Kevin 👋
 
-##
-
 <div>
   <a href="https://github.com/KevinAlves55?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinAlves55&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -26,6 +24,8 @@
 </div>
                                                                                                                                        
 ##
+
+### Contatos
 
 <div style="display: inline-block;">
   <a href="https://api.whatsapp.com/send?phone=5511991165873" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
